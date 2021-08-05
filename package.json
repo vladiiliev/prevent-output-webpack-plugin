@@ -1,0 +1,24 @@
+{
+  "name": "prevent-output-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Prevent saving output files and stop assets from being emitted by Webpack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladiiliev/prevent-output-webpack-plugin.git"
+  },
+  "keywords": [
+    "disable",
+    "output",
+    "no-emit",
+    "assets",
+    "webpack",
+    "plugin"
+  ],
+  "author": "Vladimir Iliev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vladiiliev/prevent-output-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/vladiiliev/prevent-output-webpack-plugin#readme"
+}
