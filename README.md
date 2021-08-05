@@ -1,7 +1,7 @@
 # prevent-output-webpack-plugin
 Prevent saving output files and stop assets from being emitted by Webpack.
 
-##Install
+## Install
 
 ```shell
 npm install --save-dev prevent-output-webpack-plugin
@@ -10,7 +10,7 @@ npm install --save-dev prevent-output-webpack-plugin
 yarn add -D prevent-output-webpack-plugin
 ```
 
-##Usage
+## Usage
 ```javascript
 const PreventOutputWebpackPlugin = require('prevent-output-webpack-plugin');
 
