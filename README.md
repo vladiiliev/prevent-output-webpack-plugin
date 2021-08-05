@@ -20,3 +20,7 @@ module.exports = {
     ]
 }
 ```
+
+## Compatibility
+
+This plugin is only compatible with Webpack 5
